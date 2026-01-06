@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Eliseo 👋
 
-<!--
-**eliseogarcia051015/eliseogarcia051015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student interested in problem-solving, math, and beginning systems-level programming.  
+I'm still relatively new, but I love learning and better understanding how things work under the hood. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- Languages: Java, Python, C, JS (learning)
+- Tools: Git, GitHub, Linux, VS Code, LeetCode
+- Interests: Algorithms, math problems, low-level programming
+
+---
+
+## 📘 What I'm Working On
+- Anything and everything that catches my attention
+- Coursework projects 
+- Consistency with GitHub and version control
+
+---
+
+## 📊 LeetCode Stats
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=jorgeeliseo10)
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/yourusername
