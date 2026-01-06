@@ -20,9 +20,9 @@ I'm still relatively new, but I love learning and better understanding how thing
 ---
 
 ## 📊 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=jorgeeliseo10)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jorgeeliseo10?theme=dark&font=Quicksand)
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/eliseogarcia051015
